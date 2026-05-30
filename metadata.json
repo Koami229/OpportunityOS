@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityOS AI",
+  "description": "AI-powered opportunity discovery platform monitoring scholarships, jobs, grants, and more.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
